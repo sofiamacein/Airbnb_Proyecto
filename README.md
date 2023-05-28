@@ -84,90 +84,90 @@ No toma ningún valor.
 
 **_price_**: Precio por noche del alojamiento ofertado.
 
-**_weekly_price_**: 
+**_weekly_price_**: Precio por semana del alojamiento ofertado.
 
-'monthly_price', 
+**_monthly_price_**: Precio por mes del alojamiento ofertado.
 
-'security_deposit', 
+**_security_deposit_**: Fianza.
 
-'cleaning_fee',
+**_cleaning_fee_**: Tasa de limpieza.
 
-'guests_included', 
+**_guests_included_**: Número de invitados permitidos.
 
-'extra_people', 
+**_extra_people_**: Precio por persona extra.
 
-'minimum_nights', 
+**_minimum_nights_**: Noches mínimas de alquiler del alojamiento ofertado. 
 
-'maximum_nights',
+**_maximum_nights_**: Noches máximas de alquiler del alojamiento ofertado.
 
-'minimum_minimum_nights', 
+**_minimum_minimum_nights_**: 
 
-'maximum_minimum_nights',
+**_maximum_minimum_nights_**:
 
-'minimum_maximum_nights', 
+**_minimum_maximum_nights_**:
 
-'maximum_maximum_nights',
+**_maximum_maximum_nights_**:
 
-'minimum_nights_avg_ntm', 
+**_minimum_nights_avg_ntm_** :
 
-'maximum_nights_avg_ntm', 
+**_maximum_nights_avg_ntm_**:
 
-'calendar_updated',
+**_calendar_updated_**: Última actualización del calendario de reservas.
 
-'has_availability', 
+**_has_availability_**: Indica si el alojamiento ofertado está disponible.
 
-'availability_30', 
+**_availability_30_**: Indica si el alojamiento ofertado está disponible en los siguientes 30 días.
 
-'availability_60',
+**_availability_60_**: Indica si el alojamiento ofertado está disponible en los siguientes 60 días.
 
-'availability_90', 
+**_availability_90_**: Indica si el alojamiento ofertado está disponible en los siguientes 90 días.
 
-'availability_365', 
+**_availability_365_**: Indica si el alojamiento ofertado está disponible en los siguientes 365 días.
 
-'calendar_last_scraped',
+**_calendar_last_scraped_**: Última actualización de la entrada.
 
-'number_of_reviews', 
+**_number_of_reviews_**: Número de reseñas del alojamiento ofertado
 
-'number_of_reviews_ltm', 
+**_number_of_reviews_ltm_**:
 
-'first_review',
+**_first_review_**: Fecha de la primera reseña registrada.
 
-'last_review', 
+**_last_review_**:  Fecha de la última reseña registrada.
 
-'review_scores_rating', 
+**_review_scores_rating_**:  Puntuación global en porecentaje.
 
-'review_scores_accuracy',
+**_review_scores_accuracy_**: Puntuación global con valores del 1 al 10.
 
-'review_scores_cleanliness', 
+**_review_scores_cleanliness_**: Puntuación (sobre 10) de la limpieza del alojamiento ofertado.
 
-'review_scores_checkin',
+**_review_scores_checkin_**: Puntuación (sobre 10) del checkin del alojamiento ofertado.
 
-'review_scores_communication', 
+**_review_scores_communication_**: Puntuación (sobre 10) de la comunicación con el host del alojamiento ofertado.
 
-'review_scores_location',
+**_review_scores_location_**: Puntuación (sobre 10) de la ubicación del alojamiento ofertado.
 
-'review_scores_value', 
+**_review_scores_value_**: Puntuación sobre 10 del alojamiento ofertado.
 
-'requires_license', 
+**_requires_license_**: Indica si el host tiene licencia de hospedaje.
 
-'license',
+**_license_**: Número de licencia del host, en caso de tenerla.
 
-'instant_bookable', 
+**_instant_bookable_**: Indica si es posible la reserva inmediata.
 
-'is_business_travel_ready', 
+**_is_business_travel_ready_**: Indica si el alojamiento ofertado está habilitado para viajes de negocio.
 
-'cancellation_policy',
+**_cancellation_policy_**: Tipo de política de cancelación.
 
-'require_guest_profile_picture', 
+**_require_guest_profile_picture_** : Indica si es obligatorio que el huésped tenga foto de perfil.
 
-'require_guest_phone_verification',
+**_require_guest_phone_verification_**: Indica si es necesaria la verificación vía móvil.
 
-'calculated_host_listings_count',
+**_calculated_host_listings_count_**: Número de alojamiento ofertados por el host.
 
-'calculated_host_listings_count_entire_homes',
+**_calculated_host_listings_count_entire_homes_**: Número de apartamentos enteros ofertados por el host.
 
-'calculated_host_listings_count_private_rooms',
+**_calculated_host_listings_count_private_rooms_**: Número de habitaciones privadas ofertadas por el host.
 
-'calculated_host_listings_count_shared_rooms', 
+**_calculated_host_listings_count_shared_rooms_**: Número de habitaciones compartidas ofertadas por el host.
 
-'reviews_per_month'
+**_reviews_per_month_**: Número de reseñas por mes.
