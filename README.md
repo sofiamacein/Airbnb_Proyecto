@@ -7,83 +7,84 @@ En este proyecto se va a analizar un conjunto de datos extraído de Airbnb media
 
 En primer lugar, se da una descripción de las variables iniciales del conjunto de datos
 
-**_id_**
+**_id_**: Identificador de la entrada.
 
-'experiences_offered'
+**_experiences_offered_**: Indica qué experiencias complementarias se pueden obtener con la reserva. Las observaciones toman siempre el valor 'none'.
 
-'host_id', 
+**_host_id_**: Identificador del host (hospedador).
 
-'host_name', 
+**_host_name_**:  Nombre del host.
 
-'host_since',
+**_host_since_**: Fecha desde que es host.
        
-'host_location', 
+**_host_location_**: Ubicación (distrito, ciudad, estado, país...) del host.
 
-'host_response_time', 
+**_host_response_time_**: Tiempo que tarda el host en responder.
 
-'host_response_rate',
+**_host_response_rate_**: Porcentaje medio de respuesta del host.
        
-'host_acceptance_rate', 
+**_host_acceptance_rate_**: Tasa de aceptación de solicitudes por parte del host. 
 
-'host_is_superhost', 
+**_host_is_superhost_**: Indica si el host es considerado 'super host'.
 
-'host_neighbourhood',
+**_host_neighbourhood_**: Distrito en el que vive el host.
        
-'host_listings_count', 
+**_host_listings_count_**: Número de alojamientos ofertados por el host.
 
-'host_total_listings_count',
+**_host_total_listings_count_**: Número total de alojamientos ofertados por el host.
        
-'host_has_profile_pic',
+**_host_has_profile_pic_**: Indica si el host tiene foto de perfil.
 
-'host_identity_verified', 
+**_host_identity_verified_**: Indica si la identidad del host ha sido verificada.
 
-'street',
+**_street_**: Ciudad, Provincia, País del alojamineto ofertado.
 
-'neighbourhood', 
+**_neighbourhood_**: Barrio en el que se encuentra el alojamiento ofertado.
 
-'neighbourhood_cleansed',
+**_neighbourhood_cleansed_**: Barrio en el que se encuentra el alojamiento ofertado.
 
-'neighbourhood_group_cleansed', 
+**_neighbourhood_group_cleansed_**: Barrio en el que se encuentra el alojamiento ofertado.
+No toma ningún valor.
 
-'city',
+**_city_**: Ciudad en la que se encunetra el alojamiento ofertado.
 
-'state', 
+**_state_**: Provincia en la que se encuentra el alojamiento ofertado,
 
-'zipcode', 
+**_zipcode_**: Código postal del alojamiento ofertado.
 
-'market',
+**_market_**: 
 
-'smart_location', 
+**_smart_location_**: Ciudad, país donde se encuentra el alojamiento ofertado.
 
-'country_code', 
+**_country_code_**: Código del país del alojamiento ofertado. En este caso, siempre es 'CA' (Canadá)
 
-'country', 
+**_country_**: País en el que se encuentra el alojamiento ofertado. En este caso, siempre es 'Canada'. 
 
-'latitude', 
+**_latitude_**: Latitud del alojamiento ofertado.
 
-'longitude',
+**_longitude_**: Longitud del alojamiento ofertado.
 
-'is_location_exact', 
+**_is_location_exact_**: Indica si la ubicación es precisa.
 
-'property_type', 
+**_property_type_**: Tipo de alojamiento ofertado 
 
-'room_type', 
+**_room_type_**: Tipo de habitación ofertada.
 
-'accommodates',
+**_accommodates_**: Número máximo de huéspedes.
 
-'bathrooms', 
+**_bathrooms_**: Número de baños del alojamiento ofertado.
 
-'bedrooms', 
+**_bedrooms_**: Número de habitaciones del alojamiento ofertado.
 
-'beds', 
+**_beds_**: Número de camas del alojamiento ofertado. 
 
-'bed_type', 
+**_bed_type_**: Tipo de cama del alojamiento ofertado.
 
-'square_feet', 
+**_square_feet_**: Superficie (en pies cuarados) del alojamiento ofertado. 
 
-'price',
+**_price_**: Precio por noche del alojamiento ofertado.
 
-'weekly_price', 
+**_weekly_price_**: 
 
 'monthly_price', 
 
