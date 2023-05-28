@@ -7,7 +7,7 @@ En este proyecto se va a analizar un conjunto de datos extraído de Airbnb media
 
 En primer lugar, se da una descripción de las variables iniciales del conjunto de datos
 
-'id' 
+*id*
 
 'experiences_offered'
 
