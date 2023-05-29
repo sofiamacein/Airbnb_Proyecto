@@ -94,7 +94,7 @@ No toma ningún valor.
 
 **_guests_included_**: Número de invitados permitidos.
 
-**_extra_people_**: Precio por persona extra.
+**_extra_people_**: Precio por invitado (precio por guests).
 
 **_minimum_nights_**: Noches mínimas de alquiler del alojamiento ofertado. 
 
